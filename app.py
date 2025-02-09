@@ -1,6 +1,5 @@
 import streamlit as st
 import polars as pl
-import numpy as np
 
 from streamlit_ui import get_user_inputs_for_reit_market
 from data import get_data
